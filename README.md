@@ -22,9 +22,9 @@ The different model notebooks included in this repository has already been execu
 
 **:page_facing_up: Document Information :**
 - **Code :** 
-1. Linear Poisson Regression Model : **Code_Reg_Poiss.py**
-2. Linear Negative Binomial Regression Model : **Code_Reg_NB.py** 
-3. Non-Linear Poisson Regression Model : **Code_DNN.py**
+1. Linear Poisson Regression Model : **Code_Reg_Poiss.ipynb**
+2. Linear Negative Binomial Regression Model : **Code_Reg_NB.ipynb** 
+3. Non-Linear Poisson Regression Model : **Code_DNN.ipynb**
 - **Data sets:** 
 1. Clean Dataset for Model : **model_data.csv**
 2. Data for Betting Model Simulation : **betting_data.csv**
@@ -83,9 +83,9 @@ Return to the _JupyterLab_ window launched previously, click on the folder icon 
 Each code takes different times to run as follows
 | Code	 |  ~ Run Time |
 |:-------| :---:|
-| Code_Reg_Poiss.py | 1 min
-| Code_Reg_NB.py | 3 min 20 sec |
-| Code_DNN.py |10 min 40 sec |
+| Code_Reg_Poiss.ipynb | 1 min
+| Code_Reg_NB.ipynb | 3 min 20 sec |
+| Code_DNN.ipynb |10 min 40 sec |
 ---
 ### :black_nib: Preparation 
 **Reading the Data Set**
