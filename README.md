@@ -128,7 +128,7 @@ Our Betting Simulation Model is built taking into consideration 3 things mainly,
 Optimal Ratio (ratio of estimated probability to bookmakers probability) and Risk (risk of betting) values are in the range [1.17, 1.23] and [0.4, 0.45], respectively. For a €5 wager per bet, the overall profit from this strategy is in the range of €43 - €67.  Similarly, by doubling the wager to €10 per bet, we obtain a profit in the range of €83 - €135.
 <img src="https://github.com/ACM40960/project-21207174/blob/main/Images/Result2.png">
 
-Over the weeks of 6 to 38, with the Ratio = 1.17 and Risk=0.4 we make a profit of approximately €67 as shown in the betting simulation below.
+Over the weeks of 6 to 38, with the Ratio = 1.17, Risk = 0.4, and a wager of €5/bet, we make a profit of approximately €67 as shown in the betting simulation below.
 <img src="https://github.com/ACM40960/project-21207174/blob/main/Images/Result1.png?raw=true">
 
 ----
