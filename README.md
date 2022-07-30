@@ -5,7 +5,7 @@
 
 <h1 align="center">Modelling Football Scores in the Italian Serie A :soccer: </h1>
 
-<h2 align="center">Projects in Math Modelling - ACM40960</h2>
+<h2 align="center">Projects in Maths Modelling - ACM40960</h2>
 
 ### :scroll: Basic Overview
 The research aims to forecast the likelihood of a football match outcome, then assess the model's accuracy by contrasting its forecasts with those of the bookmaker, in this case Bet365. The best of the three Machine Learning models deployed is then utilised to construct a betting simulation in order to determine the profit made over a few weeks.
